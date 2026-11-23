@@ -244,7 +244,7 @@ Bu proje **demo** amaçlıdır. Gerçek ERP entegrasyonunda ek olarak yetkilendi
 
 ---
 
-## Başvuru / GitHub için kısa açıklama
+## Kısa açıklama
 
 > Üretim ve satış verilerine doğal dilde soru sorulmasını sağlayan AI agent.  
 > LLM ile SQL üretir, güvenli şekilde çalıştırır ve yönetici özeti oluşturur.  
@@ -252,6 +252,6 @@ Bu proje **demo** amaçlıdır. Gerçek ERP entegrasyonunda ek olarak yetkilendi
 
 ---
 
-## Lisans / not
+## Not
 
-Portföy / iş başvurusu demosu olarak hazırlanmıştır. Gerçek şirket verisi içermez.
+ Demo olarak hazırlanmıştır. Gerçek şirket verisi içermez.
